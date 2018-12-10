@@ -59,7 +59,7 @@ ls -Glp is a long list form with no group names and adding a / after directories
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+I don't really have favorites, but -r can be useful if you are looking for something in a directory
 
 ---
 
@@ -67,7 +67,6 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
-
+xargs allows you to give a command input from the keyboard instead of an arguement. Several commands require an arguement to run, so xargs is useful as it allows you to run the commands with input from the keyboard. Or input that is output from another file.
  
 
