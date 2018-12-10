@@ -20,7 +20,17 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+
+pwd: show current working directory path
+mkdir: create a directory
+rmdir: remove a directory
+touch: create a file (touch <filename>)
+rm: remove a file
+mv: rename a file (can rename and move it to a different directory)
+ls: list files (not including hidden files)
+la (or ls -a): list all files including hidden files
+cp: copy a file (to another directory or to a new filename) 
+sudo: activate root directory access
 
 ---
 
@@ -35,8 +45,14 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
-
+ls lists the files (and directories) in the directory
+ls -a lists all the files and directories (including hidden files)
+ls -l lists with long form information including file size and when it was created
+ls -lh is the human readable version of ls -l
+ls -lah in human readable, long form version of ls -a
+ls -t is a sorted version of ls by filetype by time instead of alphabetically
+ls -Glp is a long list form with no group names and adding a / after directories
+ 
 ---
 
 ### Q3.  More List Files in Unix  
