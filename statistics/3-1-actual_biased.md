@@ -22,6 +22,6 @@ print('Estimated unbiased mean: ' + str(childestpmf.Mean()))
 
 Estimated unbiased mean: 0.6542235905329998
 
-
+[[https://github.com/thiltgen/dsp/statistics/biased-unbiased.png|alt=octocat]]
 
 
