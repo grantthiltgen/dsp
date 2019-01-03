@@ -4,6 +4,6 @@
 
 *Generate 1000 numbers from random.random and plot their PMF and CDF. Is the distribution uniform? *
 
-!(pmf-random.png)
+![](pmf-random.png)
 
-!(cdf-random.png)
+![](cdf-random.png)
