@@ -24,6 +24,5 @@ Estimated unbiased mean: 0.6542235905329998
 
 ![](biased-unbiased.png)
 
-[[https://github.com/thiltgen/dsp/statistics/biased-unbiased.png|alt=octocat]]
 
 
